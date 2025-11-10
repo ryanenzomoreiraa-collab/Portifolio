@@ -1,63 +1,49 @@
-# Portifolio
-Olá! Eu sou [Ryan enzo]
+# Olá! Eu sou Ryan Enzo Moreira Carriel
 
-Minha foto: (Professor do Elevar)
-
-[Faça uma descrição sobre você, tente usar muitas palavras, evite usar o ChatGPT, se for usar, melhore o texto que você já criou]
-
-Sobre mim : 
+## **Sobre mim:** 
 - Gosto de correr
-- gosto de matematica
-- jogo todos os esportes menos alguns de mesa
-- leio bastante
-- uso moderamente o instagram e tik tok
-- sempre motivado
-- gosto de ajudar o proximo sempre
-- adoro aprender coisas novas como: livros novos , materias/estilos diferentes , comprar / descobrir roupas diferentes.
+- Gosto de matematica
+- Jogo todos os esportes menos alguns de mesa
+- Leio bastante
+- Uso moderamente o instagram e tik tok
+- Sempre motivado
+- Gosto de ajudar o proximo sempre
+- Adoro aprender coisas novas como: livros novos , materias/estilos diferentes , comprar / descobrir roupas diferentes.
 
-Idade: [16]
+ _
 
-Cidade: [sorocaba]
+- **Idade:** 16
+- **Cidade:** Sorocaba/SP
+- **Personalidade:** Engraçado, Inovador.
+- **interesses:** Novidades.
+- **O que me motiva:** Stay hard.
+- **O que gosto de fazer:** esportes , matematicas , ler.
 
-Personalidade: selicioso
+---
 
-Interesses: novidades
+## **Meus objetivos**
 
-O que me motiva: "stay hard"
+- Conseguir trablhar de Ceo em uma empresa.
+- Ter liderança em minhas ações (ajudar quem precisa , dar apoio moral.
+- Ser minha melhor versão todo dia.
+- Aprender mexer coisas eletronicas.
 
-O que gosto de fazer:
-
-
-
-(Edite essa lista livremente — o objetivo é expressar rotina e interesses reais)
-
-Meus objetivos
-
-[Descreva um objetivo válido]
-
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
+_
 
 
-Markdown e documentação digital
-[Vamos fazer um link com nosso primeiro artigo] 
-“Como usar o GitHub para criar e compartilhar ideias”
-“Conceitos de cidadania e segurança online”
-“Conceitos de segurança da informação”
 
-
-(essas linhas podem ser adaptadas a qualquer fase do curso)
-
-Uma frase que me representa
+Uma frase que me representa:Não desista
 
 [Escolha uma frase e faça uma citação]
+- Jesus: eu sou o caminho , a verdade , e a vida , ninguem vem ao pai senão por mim  "João 14:6"
 
-Um pouco da minha identidade digital
+_
+- Um pouco da minha identidade digital: 015_s7_ryanx
+
+_
 
 [Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
 
 (podem colocar uma imagem livre, um desenho próprio, ou até criar um avatar no Canva ou Bitmoji)
 
-Como me encontrar
+Como me encontrar: escola
