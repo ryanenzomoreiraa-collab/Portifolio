@@ -1,4 +1,5 @@
 # Olá! Eu sou Ryan Enzo Moreira Carriel
+!["minha imagem"](Ichigo-Kurosaki-Bleach.webp)
 
 ## **Sobre mim:** 
 - Gosto de correr
@@ -28,7 +29,7 @@
 - Ser minha melhor versão todo dia.
 - Aprender mexer coisas eletronicas.
 
-_
+___
 
 
 
@@ -37,10 +38,10 @@ Uma frase que me representa:Não desista
 [Escolha uma frase e faça uma citação]
 - Jesus: eu sou o caminho , a verdade , e a vida , ninguem vem ao pai senão por mim  "João 14:6"
 
-_
+___
 - Um pouco da minha identidade digital: 015_s7_ryanx
 
-_
+___
 
 [Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
 
