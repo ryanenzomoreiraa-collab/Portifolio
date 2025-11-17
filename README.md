@@ -1,5 +1,5 @@
 # Olá! Eu sou Ryan Enzo Moreira Carriel
-!["minha imagem"](Ichigo-Kurosaki-Bleach.webp)
+![](20250918_082157.jpg)
 
 ## **Sobre mim:** 
 - Gosto de correr
