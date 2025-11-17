@@ -1,5 +1,5 @@
 # Olá! Eu sou Ryan Enzo Moreira Carriel
-![foto](IMG\ryan.jpg)
+![foto](./IMG\ryan.jpg)
 
 ## **Sobre mim:** 
 - Gosto de correr
