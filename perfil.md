@@ -1,5 +1,5 @@
 # ✨ Sobre mim – Ryan Enzo Moreira Carriel
-
+![alt text](image-1.png)
 Quem sou eu:
 Sou Ryan Enzo, um jovem de 16 anos de Sorocaba/SP, curioso, motivado e sempre buscando a minha melhor versão. Tenho uma personalidade engraçada, inovadora e um espírito que não desiste — jamais.
 
