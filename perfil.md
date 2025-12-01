@@ -58,3 +58,61 @@ Citação escolhida:
 ID: 015_s7_ryanx
 Avatar: pode ser gerado assim que você enviar sua foto ou escolher um estilo
 Como me encontrar: Na escola e em projetos/atividades em que estou envolvido.
+
+
+
+
+
+ Ryan enzo moreira carriel
+
+
+
+cidade e bairro: sorocaba , bairro iolanda dos reis 345
+
+
+email profissional: Ryan.enzo.moreiraa@gmail.com
+telefone: 15 991196128
+
+OBJETIVO: ser Ceo de empresa
+
+SOBRE MIM: 
+Gosto de estudar 
+Fazer exercicio fisicos intensos 
+Adoro aprender novidades
+
+ESCOLARIDADE:  EE.monsenhor.joão.soares
+
+CURSOS: curso informatica (elevar) ,  curso de robotica (sesi) , ingles (speak) ,  
+
+HABILIDADES:
+comunicacão rapida
+Apredizado re
+
+PROJETOS
+...
+
+IDIOMAS
+...
+
+INTERESSES
+ 
+
+Nome completo
+
+
+Bairro e cidade
+
+
+Telefone
+
+
+E-mail profissional
+
+
+
+
+
+https://docs.google.com/document/d/1RFsGAxxi894SfUIX_NnsjtQ4klbZeFyLVpL-Aos0XIM/edit?usp=sharing
+
+
+
